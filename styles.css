@@ -10,6 +10,12 @@
 
 }
 
+a {
+  color: #EEEEEE;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
 body {
   background-color: #393E46;
 }
@@ -39,3 +45,5 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+
